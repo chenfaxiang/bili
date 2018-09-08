@@ -5,3 +5,5 @@ lib
 examples/*/yarn.lock
 examples/*/package-lock.json
 coverage/
+
+package-lock.json
